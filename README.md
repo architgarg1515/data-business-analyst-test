@@ -4,7 +4,7 @@ Test for the iFood team of Data Analytics Team
 The test is separated on: 
 1. [Data Validation](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2372086426737077/449765189887875/7923806185164002/latest.html)
 2. [Exploratory Data Analysis](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2372086426737077/449765189887902/7923806185164002/latest.html)
-3. [Predictive Model](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2372086426737077/449765189887900/7923806185164002/latest.html)
+3. [Predictive Model](https://github.com/israelmendez232/data-business-analyst-test/blob/main/notebooks/03-model-data-analytics-test-ifood-israel-mendes.ipynb)
 4. Next Steps (for the presentation)
 
 --- 
